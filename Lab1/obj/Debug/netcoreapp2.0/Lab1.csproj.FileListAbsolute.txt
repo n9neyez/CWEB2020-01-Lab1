@@ -1,0 +1,11 @@
+C:\schooldata\semester3\AdvancedProgramming\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.deps.json
+C:\schooldata\semester3\AdvancedProgramming\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.runtimeconfig.json
+C:\schooldata\semester3\AdvancedProgramming\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.runtimeconfig.dev.json
+C:\schooldata\semester3\AdvancedProgramming\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.dll
+C:\schooldata\semester3\AdvancedProgramming\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.pdb
+C:\schooldata\semester3\AdvancedProgramming\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.csprojResolveAssemblyReference.cache
+C:\schooldata\semester3\AdvancedProgramming\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.csproj.CoreCompileInputs.cache
+C:\schooldata\semester3\AdvancedProgramming\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.AssemblyInfoInputs.cache
+C:\schooldata\semester3\AdvancedProgramming\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.AssemblyInfo.cs
+C:\schooldata\semester3\AdvancedProgramming\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.dll
+C:\schooldata\semester3\AdvancedProgramming\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.pdb
